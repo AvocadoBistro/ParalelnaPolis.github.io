@@ -25,6 +25,7 @@ This is a list of merchants in Czech Republic and Slovakia accepting Lightning N
 
  - [Paralelní Polis](https://paralelnipolis.cz/) - coworking space, coffee, events, swag, T-shirts
  - [Laundromat](https://pavoltravnik.github.io/laundromat/) - Pavol does laundry for crypto tourists, nomads etc. (not money laundering, but socks, pants etc.)
+ - [Avocado Bistro](https://avocadobistro.cz/) - First avocado bistro in Czech. Serving Poke Bowls, Beef burrito & guacamole, Burgers, Avocado Toasts, smoothies, coffee, avocado merch, caterings, etc. accept BITCOIN. 
  
 #### Brno
 
